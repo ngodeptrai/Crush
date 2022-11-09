@@ -1,6 +1,8 @@
 const CONFIG = {
-    titleWeb: "Gửi Crush",
-    introTitle: 'Crush yêu dấu',
+    titleWeb: "Gửi Ánh
+ ",
+    introTitle: 'Ánh
+ yêu dấu',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
@@ -12,9 +14,9 @@ const CONFIG = {
     btnNo: 'Không nha :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu anh Nam nhất luôn <333',
+    reply: 'Yêu anh Ngọ nhất',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Tối nay, anh qua đón đi chơi nha.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://m.me/nam162002/' //link mess của các bạn. VD: /dinhkaito
+    messLink: 'https://www.facebook.com/ma.soai.2002'
 }
